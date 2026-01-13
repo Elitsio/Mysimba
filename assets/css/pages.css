@@ -468,6 +468,13 @@ body, #container-wrap { background:#ededed; }
 	-webkit-transform-origin:49.992% 49.989%;
 }
 
+#item16485 {
+	width:96px !important;
+	height:96px !important;
+	left:36px !important;
+	top:36px !important;
+}
+
 @keyframes fade-in-649 {
 	0% {opacity:0;}
 	100% {opacity:1;}
@@ -584,6 +591,13 @@ body, #container-wrap { background:#ededed; }
 	height:75px !important;
 	left:1932px !important;
 	top:1461px !important;
+}
+
+#item16497 {
+	width:96px !important;
+	height:96px !important;
+	left:36px !important;
+	top:36px !important;
 }
 
 #item14521 {
