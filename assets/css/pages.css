@@ -487,19 +487,6 @@ html[data-dir="rtl"] nav#page-nav > #backBtn, html:not([data-dir="rtl"]) nav#pag
 	top:36px !important;
 }
 
-@keyframes fade-in-17459 {
-	0% {opacity:0;}
-	100% {opacity:1;}
-}
-@-webkit-keyframes fade-in-17459 {
-	0% {opacity:0;}
-	100% {opacity:1;}
-}
-#item17459 {
-	transform-origin:49.992% 49.989%;
-	-webkit-transform-origin:49.992% 49.989%;
-}
-
 @keyframes fade-in-649 {
 	0% {opacity:0;}
 	100% {opacity:1;}
@@ -625,11 +612,31 @@ html[data-dir="rtl"] nav#page-nav > #backBtn, html:not([data-dir="rtl"]) nav#pag
 	top:1461px !important;
 }
 
+@keyframes fade-in-17459 {
+	0% {opacity:0;}
+	100% {opacity:1;}
+}
+@-webkit-keyframes fade-in-17459 {
+	0% {opacity:0;}
+	100% {opacity:1;}
+}
+#item17459 {
+	transform-origin:49.992% 49.989%;
+	-webkit-transform-origin:49.992% 49.989%;
+}
+
 #item16497 {
 	width:96px !important;
 	height:96px !important;
 	left:36px !important;
 	top:36px !important;
+}
+
+#item14521 {
+	width:1740px !important;
+	height:156px !important;
+	left:184px !important;
+	top:1268px !important;
 }
 
 @keyframes fade-in-17470 {
@@ -643,13 +650,6 @@ html[data-dir="rtl"] nav#page-nav > #backBtn, html:not([data-dir="rtl"]) nav#pag
 #item17470 {
 	transform-origin:49.992% 49.989%;
 	-webkit-transform-origin:49.992% 49.989%;
-}
-
-#item14521 {
-	width:1740px !important;
-	height:156px !important;
-	left:184px !important;
-	top:1268px !important;
 }
 
 #item14517 {
@@ -935,19 +935,6 @@ html[data-dir="rtl"] nav#page-nav > #backBtn, html:not([data-dir="rtl"]) nav#pag
 	-webkit-transform-origin:49.992% 49.989%;
 }
 
-@keyframes fade-in-17479 {
-	0% {opacity:0;}
-	100% {opacity:1;}
-}
-@-webkit-keyframes fade-in-17479 {
-	0% {opacity:0;}
-	100% {opacity:1;}
-}
-#item17479 {
-	transform-origin:49.992% 49.989%;
-	-webkit-transform-origin:49.992% 49.989%;
-}
-
 @keyframes fade-in-2023 {
 	0% {opacity:0;}
 	100% {opacity:1;}
@@ -1064,15 +1051,15 @@ html[data-dir="rtl"] nav#page-nav > #backBtn, html:not([data-dir="rtl"]) nav#pag
 	top:1461px !important;
 }
 
-@keyframes fade-in-17483 {
+@keyframes fade-in-17479 {
 	0% {opacity:0;}
 	100% {opacity:1;}
 }
-@-webkit-keyframes fade-in-17483 {
+@-webkit-keyframes fade-in-17479 {
 	0% {opacity:0;}
 	100% {opacity:1;}
 }
-#item17483 {
+#item17479 {
 	transform-origin:49.992% 49.989%;
 	-webkit-transform-origin:49.992% 49.989%;
 }
@@ -1178,6 +1165,19 @@ html[data-dir="rtl"] nav#page-nav > #backBtn, html:not([data-dir="rtl"]) nav#pag
 	top:1461px !important;
 }
 
+@keyframes fade-in-17483 {
+	0% {opacity:0;}
+	100% {opacity:1;}
+}
+@-webkit-keyframes fade-in-17483 {
+	0% {opacity:0;}
+	100% {opacity:1;}
+}
+#item17483 {
+	transform-origin:49.992% 49.989%;
+	-webkit-transform-origin:49.992% 49.989%;
+}
+
 @keyframes fade-in-3802 {
 	0% {opacity:0;}
 	100% {opacity:1;}
@@ -1213,19 +1213,6 @@ html[data-dir="rtl"] nav#page-nav > #backBtn, html:not([data-dir="rtl"]) nav#pag
 	100% {opacity:1;}
 }
 #item3909 {
-	transform-origin:49.992% 49.989%;
-	-webkit-transform-origin:49.992% 49.989%;
-}
-
-@keyframes fade-in-17488 {
-	0% {opacity:0;}
-	100% {opacity:1;}
-}
-@-webkit-keyframes fade-in-17488 {
-	0% {opacity:0;}
-	100% {opacity:1;}
-}
-#item17488 {
 	transform-origin:49.992% 49.989%;
 	-webkit-transform-origin:49.992% 49.989%;
 }
@@ -1306,15 +1293,15 @@ html[data-dir="rtl"] nav#page-nav > #backBtn, html:not([data-dir="rtl"]) nav#pag
 	top:1461px !important;
 }
 
-@keyframes fade-in-17492 {
+@keyframes fade-in-17488 {
 	0% {opacity:0;}
 	100% {opacity:1;}
 }
-@-webkit-keyframes fade-in-17492 {
+@-webkit-keyframes fade-in-17488 {
 	0% {opacity:0;}
 	100% {opacity:1;}
 }
-#item17492 {
+#item17488 {
 	transform-origin:49.992% 49.989%;
 	-webkit-transform-origin:49.992% 49.989%;
 }
@@ -1591,15 +1578,15 @@ html[data-dir="rtl"] nav#page-nav > #backBtn, html:not([data-dir="rtl"]) nav#pag
 	top:1461px !important;
 }
 
-@keyframes fade-in-17499 {
+@keyframes fade-in-17492 {
 	0% {opacity:0;}
 	100% {opacity:1;}
 }
-@-webkit-keyframes fade-in-17499 {
+@-webkit-keyframes fade-in-17492 {
 	0% {opacity:0;}
 	100% {opacity:1;}
 }
-#item17499 {
+#item17492 {
 	transform-origin:49.992% 49.989%;
 	-webkit-transform-origin:49.992% 49.989%;
 }
@@ -1700,15 +1687,15 @@ html[data-dir="rtl"] nav#page-nav > #backBtn, html:not([data-dir="rtl"]) nav#pag
 	top:1461px !important;
 }
 
-@keyframes fade-in-17505 {
+@keyframes fade-in-17499 {
 	0% {opacity:0;}
 	100% {opacity:1;}
 }
-@-webkit-keyframes fade-in-17505 {
+@-webkit-keyframes fade-in-17499 {
 	0% {opacity:0;}
 	100% {opacity:1;}
 }
-#item17505 {
+#item17499 {
 	transform-origin:49.992% 49.989%;
 	-webkit-transform-origin:49.992% 49.989%;
 }
@@ -1796,15 +1783,15 @@ html[data-dir="rtl"] nav#page-nav > #backBtn, html:not([data-dir="rtl"]) nav#pag
 	top:1461px !important;
 }
 
-@keyframes fade-in-17511 {
+@keyframes fade-in-17505 {
 	0% {opacity:0;}
 	100% {opacity:1;}
 }
-@-webkit-keyframes fade-in-17511 {
+@-webkit-keyframes fade-in-17505 {
 	0% {opacity:0;}
 	100% {opacity:1;}
 }
-#item17511 {
+#item17505 {
 	transform-origin:49.992% 49.989%;
 	-webkit-transform-origin:49.992% 49.989%;
 }
@@ -1970,15 +1957,15 @@ html[data-dir="rtl"] nav#page-nav > #backBtn, html:not([data-dir="rtl"]) nav#pag
 	top:1461px !important;
 }
 
-@keyframes fade-in-17515 {
+@keyframes fade-in-17511 {
 	0% {opacity:0;}
 	100% {opacity:1;}
 }
-@-webkit-keyframes fade-in-17515 {
+@-webkit-keyframes fade-in-17511 {
 	0% {opacity:0;}
 	100% {opacity:1;}
 }
-#item17515 {
+#item17511 {
 	transform-origin:49.992% 49.989%;
 	-webkit-transform-origin:49.992% 49.989%;
 }
@@ -2051,15 +2038,15 @@ html[data-dir="rtl"] nav#page-nav > #backBtn, html:not([data-dir="rtl"]) nav#pag
 	top:1461px !important;
 }
 
-@keyframes fade-in-17519 {
+@keyframes fade-in-17515 {
 	0% {opacity:0;}
 	100% {opacity:1;}
 }
-@-webkit-keyframes fade-in-17519 {
+@-webkit-keyframes fade-in-17515 {
 	0% {opacity:0;}
 	100% {opacity:1;}
 }
-#item17519 {
+#item17515 {
 	transform-origin:49.992% 49.989%;
 	-webkit-transform-origin:49.992% 49.989%;
 }
@@ -2152,15 +2139,15 @@ html[data-dir="rtl"] nav#page-nav > #backBtn, html:not([data-dir="rtl"]) nav#pag
 	top:1461px !important;
 }
 
-@keyframes fade-in-17526 {
+@keyframes fade-in-17519 {
 	0% {opacity:0;}
 	100% {opacity:1;}
 }
-@-webkit-keyframes fade-in-17526 {
+@-webkit-keyframes fade-in-17519 {
 	0% {opacity:0;}
 	100% {opacity:1;}
 }
-#item17526 {
+#item17519 {
 	transform-origin:49.992% 49.989%;
 	-webkit-transform-origin:49.992% 49.989%;
 }
@@ -2227,5 +2214,18 @@ html[data-dir="rtl"] nav#page-nav > #backBtn, html:not([data-dir="rtl"]) nav#pag
 	height:75px !important;
 	left:1933px !important;
 	top:1461px !important;
+}
+
+@keyframes fade-in-17526 {
+	0% {opacity:0;}
+	100% {opacity:1;}
+}
+@-webkit-keyframes fade-in-17526 {
+	0% {opacity:0;}
+	100% {opacity:1;}
+}
+#item17526 {
+	transform-origin:49.992% 49.989%;
+	-webkit-transform-origin:49.992% 49.989%;
 }
 #in5footer,  #prefooter {display:none;}
