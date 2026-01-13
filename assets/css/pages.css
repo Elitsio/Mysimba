@@ -455,24 +455,66 @@ body, #container-wrap { background:#ededed; }
 	.paper-vertical, .paper-horizontal { padding:0; }
 }
 
-@keyframes fade-in-590 {
-	0% {opacity:0;}
-	100% {opacity:1;}
-}
-@-webkit-keyframes fade-in-590 {
-	0% {opacity:0;}
-	100% {opacity:1;}
-}
-#item590 {
-	transform-origin:49.992% 49.989%;
-	-webkit-transform-origin:49.992% 49.989%;
-}
-
 #item16485 {
 	width:96px !important;
 	height:96px !important;
 	left:36px !important;
 	top:36px !important;
+}
+
+@keyframes fade-in-17070 {
+	0% {opacity:0;}
+	100% {opacity:1;}
+}
+@-webkit-keyframes fade-in-17070 {
+	0% {opacity:0;}
+	100% {opacity:1;}
+}
+#item17070 {
+	transform-origin:49.992% 49.989%;
+	-webkit-transform-origin:49.992% 49.989%;
+}
+
+#item17172 {
+	width:321px !important;
+	height:75px !important;
+	left:212px !important;
+	top:1461px !important;
+}
+
+#item17181 {
+	width:302px !important;
+	height:75px !important;
+	left:550px !important;
+	top:1461px !important;
+}
+
+#item17185 {
+	width:288px !important;
+	height:75px !important;
+	left:868px !important;
+	top:1461px !important;
+}
+
+#item17189 {
+	width:288px !important;
+	height:75px !important;
+	left:1172px !important;
+	top:1461px !important;
+}
+
+#item17193 {
+	width:321px !important;
+	height:75px !important;
+	left:1477px !important;
+	top:1461px !important;
+}
+
+#item17197 {
+	width:116px !important;
+	height:75px !important;
+	left:1933px !important;
+	top:1461px !important;
 }
 
 @keyframes fade-in-649 {
@@ -551,41 +593,6 @@ body, #container-wrap { background:#ededed; }
 	-webkit-transform-origin:49.992% 49.989%;
 }
 
-#item884 {
-	width:321px !important;
-	height:75px !important;
-	left:211px !important;
-	top:1461px !important;
-}
-
-#item892 {
-	width:302px !important;
-	height:75px !important;
-	left:549px !important;
-	top:1461px !important;
-}
-
-#item896 {
-	width:288px !important;
-	height:75px !important;
-	left:867px !important;
-	top:1461px !important;
-}
-
-#item900 {
-	width:288px !important;
-	height:75px !important;
-	left:1171px !important;
-	top:1461px !important;
-}
-
-#item904 {
-	width:321px !important;
-	height:75px !important;
-	left:1476px !important;
-	top:1461px !important;
-}
-
 #item908 {
 	width:116px !important;
 	height:75px !important;
@@ -598,6 +605,61 @@ body, #container-wrap { background:#ededed; }
 	height:96px !important;
 	left:36px !important;
 	top:36px !important;
+}
+
+@keyframes fade-in-17076 {
+	0% {opacity:0;}
+	100% {opacity:1;}
+}
+@-webkit-keyframes fade-in-17076 {
+	0% {opacity:0;}
+	100% {opacity:1;}
+}
+#item17076 {
+	transform-origin:49.992% 49.989%;
+	-webkit-transform-origin:49.992% 49.989%;
+}
+
+#item17202 {
+	width:321px !important;
+	height:75px !important;
+	left:212px !important;
+	top:1461px !important;
+}
+
+#item17211 {
+	width:302px !important;
+	height:75px !important;
+	left:550px !important;
+	top:1461px !important;
+}
+
+#item17215 {
+	width:288px !important;
+	height:75px !important;
+	left:868px !important;
+	top:1461px !important;
+}
+
+#item17219 {
+	width:288px !important;
+	height:75px !important;
+	left:1172px !important;
+	top:1461px !important;
+}
+
+#item17224 {
+	width:321px !important;
+	height:75px !important;
+	left:1477px !important;
+	top:1461px !important;
+}
+
+#item17228 {
+	width:116px !important;
+	height:75px !important;
+	left:1933px !important;
+	top:1461px !important;
 }
 
 #item14521 {
@@ -622,36 +684,36 @@ body, #container-wrap { background:#ededed; }
 }
 
 #item1080 {
-	width:321px !important;
-	height:75px !important;
+	width:322px !important;
+	height:63px !important;
 	left:211px !important;
 	top:1461px !important;
 }
 
 #item1088 {
 	width:302px !important;
-	height:75px !important;
+	height:62px !important;
 	left:549px !important;
 	top:1461px !important;
 }
 
 #item1092 {
 	width:288px !important;
-	height:75px !important;
+	height:62px !important;
 	left:867px !important;
 	top:1461px !important;
 }
 
 #item1096 {
 	width:288px !important;
-	height:75px !important;
+	height:62px !important;
 	left:1171px !important;
 	top:1461px !important;
 }
 
 #item1100 {
 	width:321px !important;
-	height:75px !important;
+	height:62px !important;
 	left:1476px !important;
 	top:1461px !important;
 }
