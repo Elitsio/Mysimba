@@ -678,33 +678,6 @@ html[data-dir="rtl"] nav#page-nav > #backBtn, html:not([data-dir="rtl"]) nav#pag
 	-webkit-transform-origin:49.992% 49.989%;
 }
 
-@keyframes move-right-grow-1517 {
-	0% {
-		transform:translate(0px,0px) scaleX(1) scaleY(1);
-		opacity:1;
-	}
-	100% {
-		transform:translate(422.012px,0px) scaleX(2) scaleY(2);
-		opacity:1;
-	}
-}
-@-webkit-keyframes move-right-grow-1517 {
-	0% {
-		-webkit-transform:translate(0px,0px) scaleX(1) scaleY(1);
-		opacity:1;
-	}
-	100% {
-		-webkit-transform:translate(422.012px,0px) scaleX(2) scaleY(2);
-		opacity:1;
-	}
-}
-#item1517 {
-	width:291px !important;
-	height:686px !important;
-	left:210px !important;
-	top:476px !important;
-}
-
 #item16327 {
 	width:664px !important;
 	height:667px !important;
@@ -759,6 +732,33 @@ html[data-dir="rtl"] nav#page-nav > #backBtn, html:not([data-dir="rtl"]) nav#pag
 	height:96px !important;
 	left:40px !important;
 	top:36px !important;
+}
+
+@keyframes move-right-grow-1517 {
+	0% {
+		transform:translate(0px,0px) scaleX(1) scaleY(1);
+		opacity:1;
+	}
+	100% {
+		transform:translate(422.012px,0px) scaleX(2) scaleY(2);
+		opacity:1;
+	}
+}
+@-webkit-keyframes move-right-grow-1517 {
+	0% {
+		-webkit-transform:translate(0px,0px) scaleX(1) scaleY(1);
+		opacity:1;
+	}
+	100% {
+		-webkit-transform:translate(422.012px,0px) scaleX(2) scaleY(2);
+		opacity:1;
+	}
+}
+#item1517 {
+	width:291px !important;
+	height:686px !important;
+	left:210px !important;
+	top:476px !important;
 }
 
 #item14514 {
@@ -955,14 +955,19 @@ html[data-dir="rtl"] nav#page-nav > #backBtn, html:not([data-dir="rtl"]) nav#pag
 	-webkit-transform-origin:49.992% 49.989%;
 }
 
-@keyframes grow-big-2944 {
+@keyframes grow-19141 {
 	0% {transform:translate(0px,0px) scaleX(1) scaleY(1);}
-	100% {transform:translate(0px,0px) scaleX(1.5) scaleY(1.5);}
+	100% {transform:translate(0px,0px) scaleX(1.7) scaleY(2);}
 }
-@-webkit-keyframes grow-big-2944 {
+@-webkit-keyframes grow-19141 {
 	0% {-webkit-transform:translate(0px,0px) scaleX(1) scaleY(1);}
-	100% {-webkit-transform:translate(0px,0px) scaleX(1.5) scaleY(1.5);}
+	100% {-webkit-transform:translate(0px,0px) scaleX(1.7) scaleY(2);}
 }
+#item19141 {
+	transform-origin:49.992% 49.989%;
+	-webkit-transform-origin:49.992% 49.989%;
+}
+
 #item17641 {
 	width:322px !important;
 	height:66px !important;
