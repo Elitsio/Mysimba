@@ -1967,13 +1967,6 @@ html[data-dir="rtl"] nav#page-nav > #backBtn, html:not([data-dir="rtl"]) nav#pag
 	top:1461px !important;
 }
 
-#item17865 {
-	width:321px !important;
-	height:65px !important;
-	left:1477px !important;
-	top:1461px !important;
-}
-
 #item17869 {
 	width:116px !important;
 	height:75px !important;
@@ -1986,6 +1979,13 @@ html[data-dir="rtl"] nav#page-nav > #backBtn, html:not([data-dir="rtl"]) nav#pag
 	height:96px !important;
 	left:40px !important;
 	top:36px !important;
+}
+
+#item18232 {
+	width:322px !important;
+	height:66px !important;
+	left:1476px !important;
+	top:1461px !important;
 }
 
 @keyframes fade-in-7295 {
