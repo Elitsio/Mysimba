@@ -2080,23 +2080,40 @@ html[data-dir="rtl"] nav#page-nav > #backBtn, html:not([data-dir="rtl"]) nav#pag
 	-webkit-transform-origin:49.992% 49.989%;
 }
 
-@keyframes fade-in-23847 {
+@keyframes fade-in-23850 {
 	0% {opacity:0;}
 	100% {opacity:1;}
 }
-@-webkit-keyframes fade-in-23847 {
+@-webkit-keyframes fade-in-23850 {
 	0% {opacity:0;}
 	100% {opacity:1;}
 }
-#item23847 {
+#item23850 {
 	transform-origin:49.992% 49.989%;
 	-webkit-transform-origin:49.992% 49.989%;
 }
 
-#item23847 {
-	width:981px !important;
+@keyframes appear-24018 {
+	0% {opacity:0;}
+	57.1% {opacity:0;}
+	64.3% {opacity:1;}
+	100% {opacity:1;}
+}
+@-webkit-keyframes appear-24018 {
+	0% {opacity:0;}
+	57.1% {opacity:0;}
+	64.3% {opacity:1;}
+	100% {opacity:1;}
+}
+#item24018 {
+	transform-origin:49.917% 49.917%;
+	-webkit-transform-origin:49.917% 49.917%;
+}
+
+#item24018 {
+	width:965px !important;
 	height:949px !important;
-	left:534px !important;
+	left:550px !important;
 	top:279px !important;
 }
 
