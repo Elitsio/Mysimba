@@ -543,17 +543,11 @@ html[data-dir="rtl"] nav#page-nav > #backBtn, html:not([data-dir="rtl"]) nav#pag
 	-webkit-transform-origin:49.992% 49.989%;
 }
 
-@keyframes fade-in-685 {
-	0% {opacity:0;}
-	100% {opacity:1;}
-}
-@-webkit-keyframes fade-in-685 {
-	0% {opacity:0;}
-	100% {opacity:1;}
-}
-#item685 {
-	transform-origin:49.992% 49.989%;
-	-webkit-transform-origin:49.992% 49.989%;
+#item14508 {
+	width:559px !important;
+	height:321px !important;
+	left:1349px !important;
+	top:715px !important;
 }
 
 #item18115 {
