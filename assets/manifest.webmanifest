@@ -1,1 +1,1 @@
-{ 	"name": "MYSIMBA-12", 	"start_url": "../index.html?standalone=1", 	"display": "standalone", 	"background_color": "#ededed", 	"description": "", 	"icons": [ 		{ 			"src": "images/icon.png", 			"sizes": "229x164", 			"type": "image/png", 			"purpose": "any maskable" 		} 	] }
+{ 	"name": "MYSIMBA-13", 	"start_url": "../index.html?standalone=1", 	"display": "standalone", 	"background_color": "#ededed", 	"description": "", 	"icons": [ 		{ 			"src": "images/icon.png", 			"sizes": "229x164", 			"type": "image/png", 			"purpose": "any maskable" 		} 	] }
