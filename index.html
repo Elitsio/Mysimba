@@ -877,30 +877,39 @@
   const DESIGN_W = 2048;
   const DESIGN_H = 1536;
 
-  function fitToScreen() {
+  function stretchToScreen() {
     const ww = window.innerWidth;
     const wh = window.innerHeight;
 
-    const scale = Math.min(ww / DESIGN_W, wh / DESIGN_H);
+    const scaleX = ww / DESIGN_W;
+    const scaleY = wh / DESIGN_H;
 
     const c = document.getElementById("container");
     if (!c) return;
 
     c.style.transformOrigin = "0 0";
-    c.style.transform = "scale(" + scale + ")";
-
-    // center
-    const left = (ww - DESIGN_W * scale) / 2;
-    const top  = (wh - DESIGN_H * scale) / 2;
-
+    c.style.transform = "scale(" + scaleX + "," + scaleY + ")";
     c.style.position = "absolute";
-    c.style.left = left + "px";
-    c.style.top  = top  + "px";
+    c.style.left = "0px";
+    c.style.top = "0px";
+    c.style.width = DESIGN_W + "px";
+    c.style.height = DESIGN_H + "px";
+    c.style.zoom = "1";
+
+    document.documentElement.style.overflow = "hidden";
+    document.body.style.overflow = "hidden";
   }
 
-  window.addEventListener("resize", fitToScreen, { passive: true });
-  window.addEventListener("orientationchange", fitToScreen, { passive: true });
-  setTimeout(fitToScreen, 0);
+  function scheduleStretch() {
+    setTimeout(stretchToScreen, 0);
+  }
+
+  window.addEventListener("resize", scheduleStretch, { passive: true });
+  window.addEventListener("orientationchange", scheduleStretch, { passive: true });
+  if (window.jQuery) {
+    window.jQuery(document).on("newPage layoutChange", scheduleStretch);
+  }
+  scheduleStretch();
 })();
 </script>
 
