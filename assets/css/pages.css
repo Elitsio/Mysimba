@@ -2096,17 +2096,21 @@ html[data-dir="rtl"] nav#page-nav > #backBtn, html:not([data-dir="rtl"]) nav#pag
 	top:1461px !important;
 }
 
-@keyframes fade-in-23731 {
+@keyframes appear-23731 {
 	0% {opacity:0;}
+	57.1% {opacity:0;}
+	64.3% {opacity:1;}
 	100% {opacity:1;}
 }
-@-webkit-keyframes fade-in-23731 {
+@-webkit-keyframes appear-23731 {
 	0% {opacity:0;}
+	57.1% {opacity:0;}
+	64.3% {opacity:1;}
 	100% {opacity:1;}
 }
 #item23731 {
-	transform-origin:49.992% 49.989%;
-	-webkit-transform-origin:49.992% 49.989%;
+	transform-origin:49.917% 49.917%;
+	-webkit-transform-origin:49.917% 49.917%;
 }
 
 @keyframes fade-in-23750 {
