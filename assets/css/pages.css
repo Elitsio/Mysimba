@@ -933,11 +933,11 @@ html[data-dir="rtl"] nav#page-nav > #backBtn, html:not([data-dir="rtl"]) nav#pag
 
 @keyframes fade-in-2210 {
 	0% {opacity:0;}
-	100% {opacity:0.1;}
+	100% {opacity:0.3;}
 }
 @-webkit-keyframes fade-in-2210 {
 	0% {opacity:0;}
-	100% {opacity:0.1;}
+	100% {opacity:0.3;}
 }
 #item2210 {
 	transform-origin:49.992% 49.989%;
@@ -946,11 +946,11 @@ html[data-dir="rtl"] nav#page-nav > #backBtn, html:not([data-dir="rtl"]) nav#pag
 
 @keyframes fade-in-2455 {
 	0% {opacity:0;}
-	100% {opacity:0.1;}
+	100% {opacity:0.3;}
 }
 @-webkit-keyframes fade-in-2455 {
 	0% {opacity:0;}
-	100% {opacity:0.1;}
+	100% {opacity:0.3;}
 }
 #item2455 {
 	transform-origin:49.992% 49.989%;
@@ -959,11 +959,11 @@ html[data-dir="rtl"] nav#page-nav > #backBtn, html:not([data-dir="rtl"]) nav#pag
 
 @keyframes fade-in-2697 {
 	0% {opacity:0;}
-	100% {opacity:0.1;}
+	100% {opacity:0.3;}
 }
 @-webkit-keyframes fade-in-2697 {
 	0% {opacity:0;}
-	100% {opacity:0.1;}
+	100% {opacity:0.3;}
 }
 #item2697 {
 	transform-origin:49.992% 49.989%;
@@ -972,11 +972,11 @@ html[data-dir="rtl"] nav#page-nav > #backBtn, html:not([data-dir="rtl"]) nav#pag
 
 @keyframes fade-in-2946 {
 	0% {opacity:0;}
-	100% {opacity:0.1;}
+	100% {opacity:0.3;}
 }
 @-webkit-keyframes fade-in-2946 {
 	0% {opacity:0;}
-	100% {opacity:0.1;}
+	100% {opacity:0.3;}
 }
 #item2946 {
 	transform-origin:49.992% 49.989%;
