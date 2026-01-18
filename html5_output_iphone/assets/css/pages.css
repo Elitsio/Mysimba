@@ -1674,13 +1674,6 @@ html[data-dir="rtl"] nav#page-nav > #backBtn, html:not([data-dir="rtl"]) nav#pag
 	top:536px !important;
 }
 
-#item14585 {
-	width:401px !important;
-	height:648px !important;
-	left:147px !important;
-	top:624px !important;
-}
-
 @keyframes fadeout-8913 {
 	0% {opacity:1;}
 	100% {opacity:0;}
@@ -1787,6 +1780,13 @@ html[data-dir="rtl"] nav#page-nav > #backBtn, html:not([data-dir="rtl"]) nav#pag
 #item24274 {
 	transform-origin:49.992% 49.989%;
 	-webkit-transform-origin:49.992% 49.989%;
+}
+
+#item14585 {
+	width:401px !important;
+	height:648px !important;
+	left:147px !important;
+	top:624px !important;
 }
 
 #item14590 {
