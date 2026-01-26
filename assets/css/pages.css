@@ -439,8 +439,8 @@ ul.thumbs > li img { box-shadow:0 0 4px rgba(0, 0, 0, 0.5); }
 
 /*CSS Generated from InDesign Styles*/
 
-body, #container-wrap { background:transparent; }
-:-webkit-full-screen { background:transparent; }
+body, #container-wrap { background:#ededed; }
+:-webkit-full-screen { background:#ededed; }
 #loadIndicator span:after { padding-left:1ex; content:'loading content...'; }
 #slider { width:2048px; height:1536px; }
 .page-scale-wrap { width:2048px; height:1536px; background: #fff !important; }
