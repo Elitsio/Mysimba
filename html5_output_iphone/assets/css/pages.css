@@ -713,7 +713,7 @@ html[data-dir="rtl"] nav#page-nav > #backBtn, html:not([data-dir="rtl"]) nav#pag
 		opacity:1;
 	}
 	100% {
-		transform:translate(422.012px,0px) scaleX(2) scaleY(2);
+		transform:translate(422.012px,0px) scaleX(1.7) scaleY(1.7);
 		opacity:1;
 	}
 }
@@ -723,7 +723,7 @@ html[data-dir="rtl"] nav#page-nav > #backBtn, html:not([data-dir="rtl"]) nav#pag
 		opacity:1;
 	}
 	100% {
-		-webkit-transform:translate(422.012px,0px) scaleX(2) scaleY(2);
+		-webkit-transform:translate(422.012px,0px) scaleX(1.7) scaleY(1.7);
 		opacity:1;
 	}
 }
