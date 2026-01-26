@@ -11,6 +11,8 @@
           var sy = window.innerHeight / DESIGN_H;
           document.documentElement.style.setProperty('--sx', sx.toFixed(6));
           document.documentElement.style.setProperty('--sy', sy.toFixed(6));
+          document.body.style.width = DESIGN_W + 'px';
+          document.body.style.height = DESIGN_H + 'px';
           document.body.style.transformOrigin = '0 0';
           document.body.style.transform = 'scale(' + sx + ',' + sy + ')';
         }
