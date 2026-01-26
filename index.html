@@ -7,8 +7,10 @@
         var DESIGN_W = 2048;
         var DESIGN_H = 1536;
         function stretchToScreen() {
-          var sx = window.innerWidth / DESIGN_W;
-          var sy = window.innerHeight / DESIGN_H;
+          var vw = window.innerWidth;
+          var vh = (window.visualViewport && window.visualViewport.height) ? window.visualViewport.height : window.innerHeight;
+          var sx = vw / DESIGN_W;
+          var sy = (vh + 1) / DESIGN_H;
           document.documentElement.style.setProperty('--sx', sx.toFixed(6));
           document.documentElement.style.setProperty('--sy', sy.toFixed(6));
           document.body.style.width = DESIGN_W + 'px';
