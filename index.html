@@ -8,12 +8,13 @@
         var DESIGN_W = 2048;
         var DESIGN_H = 1536;
         function stretchToScreen() {
-          var vw = window.innerWidth;
-          var vv = (window.visualViewport && window.visualViewport.height) ? window.visualViewport.height : 0;
-          var vh = Math.max(window.innerHeight || 0, document.documentElement.clientHeight || 0, vv || 0);
-          var safeBottom = parseFloat(getComputedStyle(document.documentElement).getPropertyValue('--safe-bottom')) || 0;
+          var sw = (window.screen && window.screen.width) ? window.screen.width : 0;
+          var sh = (window.screen && window.screen.height) ? window.screen.height : 0;
+          var vw = Math.max(window.innerWidth || 0, document.documentElement.clientWidth || 0, sw || 0);
+          var vh = Math.max(window.innerHeight || 0, document.documentElement.clientHeight || 0, sh || 0,
+                            (window.visualViewport && window.visualViewport.height) ? window.visualViewport.height : 0);
           var sx = vw / DESIGN_W;
-          var sy = (vh + safeBottom) / DESIGN_H;
+          var sy = vh / DESIGN_H;
           document.documentElement.style.setProperty('--sx', sx.toFixed(6));
           document.documentElement.style.setProperty('--sy', sy.toFixed(6));
           document.body.style.width = DESIGN_W + 'px';
