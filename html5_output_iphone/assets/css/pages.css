@@ -1723,32 +1723,6 @@ html[data-dir="rtl"] nav#page-nav > #backBtn, html:not([data-dir="rtl"]) nav#pag
 	top:536px !important;
 }
 
-@keyframes fadeout-8913 {
-	0% {opacity:1;}
-	100% {opacity:0;}
-}
-@-webkit-keyframes fadeout-8913 {
-	0% {opacity:1;}
-	100% {opacity:0;}
-}
-#item8913 {
-	transform-origin:49.992% 49.989%;
-	-webkit-transform-origin:49.992% 49.989%;
-}
-
-@keyframes grow-5032 {
-	0% {transform:translate(0px,0px) scaleX(1) scaleY(1);}
-	100% {transform:translate(0px,0px) scaleX(1.7) scaleY(1.7);}
-}
-@-webkit-keyframes grow-5032 {
-	0% {-webkit-transform:translate(0px,0px) scaleX(1) scaleY(1);}
-	100% {-webkit-transform:translate(0px,0px) scaleX(1.7) scaleY(1.7);}
-}
-#item5032 {
-	transform-origin:49.992% 49.989%;
-	-webkit-transform-origin:49.992% 49.989%;
-}
-
 #item17757 {
 	width:321px !important;
 	height:64px !important;
@@ -1812,20 +1786,33 @@ html[data-dir="rtl"] nav#page-nav > #backBtn, html:not([data-dir="rtl"]) nav#pag
 	top:1452px !important;
 }
 
-@keyframes fade-in-32809 {
-	0% {opacity:0;}
-	100% {opacity:1;}
+@keyframes fadeout-32853 {
+	0% {opacity:1;}
+	100% {opacity:0;}
 }
-@-webkit-keyframes fade-in-32809 {
-	0% {opacity:0;}
-	100% {opacity:1;}
+@-webkit-keyframes fadeout-32853 {
+	0% {opacity:1;}
+	100% {opacity:0;}
 }
-#item32809 {
+#item32853 {
 	transform-origin:49.992% 49.989%;
 	-webkit-transform-origin:49.992% 49.989%;
 }
 
-#item32809 {
+@keyframes fadeout-32957 {
+	0% {opacity:1;}
+	100% {opacity:0;}
+}
+@-webkit-keyframes fadeout-32957 {
+	0% {opacity:1;}
+	100% {opacity:0;}
+}
+#item32957 {
+	transform-origin:49.992% 49.989%;
+	-webkit-transform-origin:49.992% 49.989%;
+}
+
+#item32957 {
 	width:567px !important;
 	height:530px !important;
 	left:661px !important;
@@ -1841,6 +1828,19 @@ html[data-dir="rtl"] nav#page-nav > #backBtn, html:not([data-dir="rtl"]) nav#pag
 	100% {opacity:1;}
 }
 #item24274 {
+	transform-origin:49.992% 49.989%;
+	-webkit-transform-origin:49.992% 49.989%;
+}
+
+@keyframes grow-5032 {
+	0% {transform:translate(0px,0px) scaleX(1) scaleY(1);}
+	100% {transform:translate(0px,0px) scaleX(1.7) scaleY(1.7);}
+}
+@-webkit-keyframes grow-5032 {
+	0% {-webkit-transform:translate(0px,0px) scaleX(1) scaleY(1);}
+	100% {-webkit-transform:translate(0px,0px) scaleX(1.7) scaleY(1.7);}
+}
+#item5032 {
 	transform-origin:49.992% 49.989%;
 	-webkit-transform-origin:49.992% 49.989%;
 }
